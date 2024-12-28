@@ -28,7 +28,7 @@ void bubble(int arr[],int s)
 }
 
  int main(){
- int arr[]={9,8,7,6,5,0,3,5,1,9};
+ int arr[]={9,8,7,6,5,0,3,75,10,9};
  int s= sizeof(arr)/sizeof(arr[0]);
  for(int i=0;i<s;i++){
     cout<<arr[i]<<"\t";
